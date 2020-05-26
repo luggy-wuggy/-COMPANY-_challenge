@@ -1,16 +1,12 @@
 # auby_project
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Getting Started:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Start by installing Flutter/Dart and a compatible IDE (I recommend VSCode)
+* Clone the following project into your system and open it through a Flutter compatible IDE
+* Run "flutter packages get" into the the terminal inside the project
+* Open a mobile simulator, iOS or android.
+      * My method is by running "flutter emulators --launch ios" in the terminal *
+* Once your IDE detects a mobile simulator (if you are using VSCode, there's a label on the bottom right corner), you can launch the application (if you are using VSCode, you can either launch it through Debugging mode or running "flutter run" in terminal)
