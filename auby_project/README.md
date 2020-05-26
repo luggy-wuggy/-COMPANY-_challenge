@@ -1,5 +1,7 @@
 # auby_project
 
+![alt text](https://github.com/luggy-wuggy/auby_challenge/tree/master/github_images/episode.png)
+![alt text](https://github.com/luggy-wuggy/auby_challenge/tree/master/github_images/home.png)
 
 
 ## Getting Started:
